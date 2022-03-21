@@ -1,7 +1,8 @@
 # CryptoZombie
-https://cryptozombies.io/fr
-<hr>
 ![image](https://user-images.githubusercontent.com/74233754/159364376-dfdd533e-a3c1-43bf-90f5-0f7277d7c55e.png)
+https://cryptozombies.io/fr
+
+
 
 CryptoZombies c'est quoi ?
 
